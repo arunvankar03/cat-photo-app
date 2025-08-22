@@ -1,2 +1,2 @@
 # cat-photo-app
-this is cat-photo-app build from freecodecamp.org
+this is cat-photo-app build with freecodecamp.org
